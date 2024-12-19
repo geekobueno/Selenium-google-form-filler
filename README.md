@@ -1,4 +1,3 @@
-```markdown
 # Automated Form Filler and Email Sender
 
 This repository contains two Python-based automation scripts:
