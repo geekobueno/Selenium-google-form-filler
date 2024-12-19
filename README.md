@@ -82,7 +82,7 @@ pip install django
   ```
 - Please note that you will need to setup an app password for your email because Google will not allow you to use your email password
 
-- You can follow this [tuto] (https://support.google.com/accounts/answer/185833?hl=en)
+- You can follow this [tuto](https://support.google.com/accounts/answer/185833?hl=en)
 
 #### **3. Add Attachments**
 - Place required files (e.g., screenshots, source code, resume) in the `files` directory.
