@@ -78,8 +78,11 @@ pip install django
   EMAIL_PORT = 587
   EMAIL_USE_TLS = True
   EMAIL_HOST_USER = 'your-email@gmail.com'
-  EMAIL_HOST_PASSWORD = 'your-email-password'
+  EMAIL_HOST_PASSWORD = 'your-app-password'
   ```
+- Please note that you will need to setup an app password for your email because Google will not allow you to use your email password
+
+- You can follow this [tuto] (https://support.google.com/accounts/answer/185833?hl=en)
 
 #### **3. Add Attachments**
 - Place required files (e.g., screenshots, source code, resume) in the `files` directory.
